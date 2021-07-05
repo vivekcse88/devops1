@@ -1,1 +1,2 @@
 "this ia A file -Version1 github branch_feature" 
+"File B added"
